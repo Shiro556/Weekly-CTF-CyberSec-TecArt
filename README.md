@@ -12,7 +12,9 @@ Dokumentasi Py : ![Foto Dokumentasi](2.png)
 
 Dokumentasi penginstalan Exiftools melalui terminal: ![Foto Dokumentasi](3.png)
 
-Penyelesaian schallenge “information”.https://learn.cylabacademy.org/library/186 ( Forensics )
+Dokumentasi Penyelesaian Challenge "Undo": ![Foto Dokumentasi](99.png)
+
+Penyelesaian challenge “information”.https://learn.cylabacademy.org/library/186 ( Forensics )
 
 langkah 1: Buka/click link yang sudah diberikan
 
